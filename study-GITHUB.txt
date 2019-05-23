@@ -1,3 +1,4 @@
 study GITHUB
 -mengetahui pengertian GITHUB
 -dan masih banyak lagi
+-membuat laporan
