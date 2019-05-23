@@ -2,3 +2,6 @@
 -struktur
 -GITHUB
   *sign in
+  ^email
+  ^pass
+ -GIT
